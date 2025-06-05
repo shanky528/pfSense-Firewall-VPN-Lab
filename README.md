@@ -26,6 +26,5 @@ This project covers:
   Postgraduate Student – Cybersecurity and Computer Forensics  
   Lambton College, Mississauga | C0933018
 
-## 📅 Date
-- Spring Term T3, Submitted on May 30, 2025
+
 
