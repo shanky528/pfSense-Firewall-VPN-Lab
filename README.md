@@ -16,15 +16,12 @@ This project covers:
 - OpenVPN server and client configuration
 - Traffic encryption testing using Wireshark
 
-## 📂 Folder Structure
-- `docs/`: Step-by-step guides and lab procedures
-- `images/`: Screenshots used across documentation
-- `lab_diagrams/`: Network topology and architectural visuals
+
 
 ## 🧠 Author
 - **Shanmukeswar Giduturi**  
   Postgraduate Student – Cybersecurity and Computer Forensics  
-  Lambton College, Mississauga | C0933018
+  Lambton College, Mississauga |
 
 
 
