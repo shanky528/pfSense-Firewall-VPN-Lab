@@ -1,6 +1,6 @@
-NAT (Network Address Translation) Configuration
+# NAT (Network Address Translation) Configuration
 
-Objective
+# Objective
 
 Allow internal networks (LAN, DMZ) to access the Internet using WAN IP.
 
