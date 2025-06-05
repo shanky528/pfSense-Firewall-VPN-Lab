@@ -1,6 +1,6 @@
-Network Topology Design
+# Network Topology Design
 
-Overview
+- Overview
 
 This lab simulates an enterprise network with the following zones:
 
@@ -12,7 +12,7 @@ WAN: Untrusted external network (Internet)
 
 VPN: Secure remote access network
 
-Network Layout
+# Network Layout
 
             INTERNET
                |
@@ -24,4 +24,4 @@ Network Layout
          |       |     |
     Internal   Web   Remote
      Client   Server Client
-Virtual Machines
+
